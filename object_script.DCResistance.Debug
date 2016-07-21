@@ -1,0 +1,13 @@
+INPUT(
+./debug\qextserialbase.o
+./debug\qextserialport.o
+./debug\win_qextserialport.o
+./debug\dcrprocotol.o
+./debug\main.o
+./debug\dcrwidget.o
+./debug\wirelessChannel.o
+./debug\moc_qextserialbase.o
+./debug\moc_qextserialport.o
+./debug\moc_win_qextserialport.o
+./debug\moc_dcrwidget.o
+);

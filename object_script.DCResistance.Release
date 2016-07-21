@@ -1,0 +1,13 @@
+INPUT(
+./release\qextserialbase.o
+./release\qextserialport.o
+./release\win_qextserialport.o
+./release\dcrprocotol.o
+./release\main.o
+./release\dcrwidget.o
+./release\wirelessChannel.o
+./release\moc_qextserialbase.o
+./release\moc_qextserialport.o
+./release\moc_win_qextserialport.o
+./release\moc_dcrwidget.o
+);
